@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">I'm a Junior Web Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br><br> 
+<p align="left">I'm a Junior Web Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br> 
 
-- 📫 **Email:** <a href="mailto:surayaahlam@gmail.com">surayaahlam@gmail.com</a><br><br> 
+- 📫 **Email:** <a href="mailto:surayaahlam@gmail.com">surayaahlam@gmail.com</a><br> 
 
-- 📝 I write articles on [https://surayaahlam.hashnode.dev/](https://surayaahlam.hashnode.dev/)<br><br> 
+- 📝 I write articles on [https://surayaahlam.hashnode.dev/](https://surayaahlam.hashnode.dev/)<br>
 
 - 💡 Fun Fact: When I'm not coding, I'm exploring new places! I've traveled to Bali, Egypt, Dubai, Thailand, Malaysia, and Saudi Arabia, and each destination has inspired my creativity and problem-solving skills. 🌍✨
 </p>
