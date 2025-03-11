@@ -12,7 +12,14 @@
 
 ###
 
-<p align="left">I'm a Junior Web Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br><br> - 📫 Email: **surayaahlam@gmail.com**<br><br> - 📝 I write articles on [https://surayaahlam.hashnode.dev/](https://surayaahlam.hashnode.dev/)<br><br> - 💡 Fun Fact: When I'm not coding, I'm exploring new places! I've traveled to Bali, Egypt, Dubai, Thailand, Malaysia, and Saudi Arabia, and each destination has inspired my creativity and problem-solving skills. 🌍✨</p>
+<p align="left">I'm a Junior Web Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br><br> 
+
+- 📫 **Email:** <a href="mailto:surayaahlam@gmail.com">surayaahlam@gmail.com</a><br><br> 
+
+- 📝 I write articles on [https://surayaahlam.hashnode.dev/](https://surayaahlam.hashnode.dev/)<br><br> 
+
+- 💡 Fun Fact: When I'm not coding, I'm exploring new places! I've traveled to Bali, Egypt, Dubai, Thailand, Malaysia, and Saudi Arabia, and each destination has inspired my creativity and problem-solving skills. 🌍✨
+</p>
 
 ###
 
@@ -75,7 +82,7 @@
 
 ###
 
-<h4 align="left">📊 Data Analysis & Backend Development</h4>
+<h3 align="left">📊 Data Analysis & Backend Development</h3>
 
 ###
 
@@ -96,4 +103,3 @@
   </a>
 </div>
 
-###
