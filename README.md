@@ -14,7 +14,7 @@
 
 <p align="left">I'm a Junior Web Developer passionate about building engaging, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and love bringing ideas to life through clean, efficient, and responsive code.<br> 
   
-- 🕸️ **My portfoilo** [Suraya Ahlam Web](https://surayaahlam.netlify.app/)<br>
+- 🕸️ My portfoilo [Suraya Ahlam Web](https://surayaahlam.netlify.app/)<br>
 
 - 📫 Reach me at <a href="mailto:surayaahlam@gmail.com">surayaahlam@gmail.com</a><br> 
 
